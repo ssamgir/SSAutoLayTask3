@@ -39,7 +39,7 @@
                                 <color key="backgroundColor" red="1" green="0.5" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
                         </subviews>
-                        <color key="backgroundColor" white="0.1163651316" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="XOH-fH-Hcc" firstAttribute="width" secondItem="DH0-6D-b7t" secondAttribute="width" id="0xo-2d-gKj"/>
                             <constraint firstItem="m6K-JF-zLn" firstAttribute="top" secondItem="XOH-fH-Hcc" secondAttribute="bottom" constant="20" id="CyX-QE-LGh"/>
@@ -57,7 +57,7 @@
                             <constraint firstItem="m6K-JF-zLn" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="jNb-7c-yQD"/>
                             <constraint firstItem="XOH-fH-Hcc" firstAttribute="centerX" secondItem="m6K-JF-zLn" secondAttribute="centerX" id="jcM-PS-WlB"/>
                             <constraint firstItem="cmm-wj-XDo" firstAttribute="centerX" secondItem="m6K-JF-zLn" secondAttribute="centerX" id="mDu-nG-whw"/>
-                            <constraint firstItem="DH0-6D-b7t" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="nGh-87-tyh"/>
+                            <constraint firstItem="DH0-6D-b7t" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="20" id="nGh-87-tyh"/>
                             <constraint firstItem="cmm-wj-XDo" firstAttribute="top" secondItem="fsz-3G-AcS" secondAttribute="bottom" constant="20" id="rfy-mh-NHv"/>
                             <constraint firstItem="XOH-fH-Hcc" firstAttribute="height" secondItem="DH0-6D-b7t" secondAttribute="height" id="she-7n-xXI"/>
                             <constraint firstItem="fsz-3G-AcS" firstAttribute="centerX" secondItem="m6K-JF-zLn" secondAttribute="centerX" id="spE-jL-NiK"/>
